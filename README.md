@@ -31,19 +31,19 @@
     * [Playbooks](#playbooks)
     * [YouTube Tutorials](#youtube-tutorials)
 
-2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/Death112233/Digital-Forensics-Guide#digital-forensics-tools-libraries-and-frameworks)
+2. [Digital Forensics Tools, Libraries, and Frameworks](https://github.com/Death112233/Digital-Forensics#digital-forensics-tools-libraries-and-frameworks)
 
 3. [Virtualization](https://github.com/Death112233/Digital-Forensics-Guide#virtualization)
 
 4. [File systems](https://github.com/Death112233/Digital-Forensics-Guide#file-systems)
 
-5. [Security Tools and Frameworks](https://github.com/Death112233/Digital-Forensics-Guide#security-tools-and-frameworks)
+5. [Security Tools and Frameworks](https://github.com/Death112233/Digital-Forensics#security-tools-and-frameworks)
 
-6. [Networking](https://github.com/Death112233/Digital-Forensics-Guide#networking)
+6. [Networking](https://github.com/Death112233/Digital-Forensics#networking)
 
 
 # Getting Started with Digital Forensics
-[Back to the Top](https://github.com/Death112233/Digital-Forensics-Guide#table-of-contents)
+[Back to the Top](https://github.com/Death112233/Digital-Forensics#table-of-contents)
 
 [Digital Forensics](https://www.dhs.gov/publication/digital-forensics-tools) is the process of recovering and preserving material found on digital devices during the course of criminal investigations. Digital forensics tools include hardware and software tools used by law enforcement to collect and preserve digital evidence and support or refute hypotheses before courts.
 
